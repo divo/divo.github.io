@@ -1,4 +1,17 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://divo.blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Steven Diviney'
 theme = "hugo-theme-monochrome"
+
+[[menu.navbar]]
+identifier = "about"
+name = "about"
+title = "about"
+url = "/about/"
+weight = 100
+
+[[menu.navbar]]
+identifier = "apps"
+name = "apps"
+url = "/apps/"
+weight = -100
