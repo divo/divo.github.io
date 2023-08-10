@@ -1,17 +1,36 @@
 baseURL = 'http://divo.blog/'
 languageCode = 'en-us'
-title = 'Steven Diviney'
-theme = "hugo-theme-monochrome"
+title = 'divo'
+theme = 'risotto'
 
-[[menu.navbar]]
-identifier = "about"
-name = "about"
-title = "about"
-url = "/about/"
-weight = 100
+[params.theme]
+palette = "solarized-dark"
 
-[[menu.navbar]]
-identifier = "apps"
-name = "apps"
-url = "/apps/"
-weight = -100
+[params.about]
+title = "Steven Diviney"
+description = "Software enginner with experience in iOS and Ruby on Rails development"
+icon = "🔰"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/divo"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-linkedin-in"
+title = "Email"
+url = "https://www.linkedin.com/in/steven-diviney-3a0aa42b/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "apps"
+    name = "Apps"
+    url = "/apps/"
+    weight = 10
+
