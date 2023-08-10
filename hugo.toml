@@ -4,7 +4,7 @@ title = 'divo'
 theme = 'risotto'
 
 [params.theme]
-palette = "solarized-dark"
+palette = "tokyo-night-light"
 
 [params.about]
 title = "Steven Diviney"
