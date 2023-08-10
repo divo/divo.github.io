@@ -1,0 +1,6 @@
+{{ $url := .Get 0 }}
+{{ $image := resources.Get $url }}
+{{ $image := $image.Resize "x200" }}
+<p align="center">
+  <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" class="circular-image">
+</p>
