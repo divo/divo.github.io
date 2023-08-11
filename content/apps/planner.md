@@ -1,6 +1,7 @@
 +++
 title = "{{< ico far fa-rectangle-list >}} Markdown planner"
 description = "A simple daily planner. Fully customizable via a Markdown template."
+head_title = "Markdown Planner"
 +++
 
 ## Overview 
@@ -53,6 +54,8 @@ My projects always come with a secondary goal in the form of some sort of learni
 ```
 
 ![Daily planer](/images/dailyplanner.png)
+
+## Links
 
 - [{{< ico fa-brands fa-github >}} Github](https://github.com/divo/dynamicplanner)
 - [{{< ico fa-brands fa-app-store >}} App Store](#)
