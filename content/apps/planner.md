@@ -3,6 +3,7 @@ title = "{{< ico far fa-rectangle-list >}} Markdown planner"
 description = "A simple daily planner. Fully customizable via a Markdown template."
 head_title = "Markdown Planner"
 +++
+- [{{< ico fa-brands fa-app-store >}} Markdown Planner](https://apps.apple.com/us/app/markdown-planner/id6455041266)
 
 ## Overview 
 A simple daily planner. Fully customizable via a Markdown template.
@@ -58,5 +59,5 @@ Every entry in the journal serializes to plain markdown on the users device and 
 ## Links
 
 - [{{< ico fa-brands fa-github >}} Github](https://github.com/divo/dynamicplanner)
-- [{{< ico fa-brands fa-app-store >}} App Store](#)
+- [{{< ico fa-brands fa-app-store >}} App Store](https://apps.apple.com/us/app/markdown-planner/id6455041266)
 - [{{< ico far fa-life-ring >}} Need support? Open an issue](https://github.com/divo/DynamicPlanner/issues)

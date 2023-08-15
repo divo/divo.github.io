@@ -3,6 +3,7 @@ title = "{{< ico far fa-keyboard >}} iTypist"
 description = "A minimal typing tutor for iPad. Based on gTypist."
 head_title = "iTypist"
 +++
+- [{{< ico fa-brands fa-app-store >}} iTypist](https://apps.apple.com/ie/app/itypist-typing-tutor/id1535416161)
 
 ## Overview 
 A minimal typing tutor for iPad. Based on gTypist.
