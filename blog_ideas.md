@@ -9,3 +9,5 @@ Apple Activity API guide
 
 SEO How to
     A comprehensive step by step guide to getting started in SEO. Take the guides from Semrush, Reddit, Ahrefs etc and write up a checklist of tasks to do where each bullet point is explained in detail.
+
+How to build a watch. I could try and sell a kit on the back of it.
