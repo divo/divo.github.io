@@ -3,7 +3,7 @@ title = "{{< ico far fa-plug-circle-xmark >}} Unplug Screentime"
 description = "Unskippable app limits"
 head_title = "Unplug"
 +++
-- [{{< ico fa-brands fa-app-store >}} Unplug Screentime (Coming soon)](#)
+- [{{< ico fa-brands fa-app-store >}} Unplug Screentime](#)
 
 ## Overview
 Unskippable app limits
@@ -26,5 +26,5 @@ Unplug is a very simple app. Set a daily limit using the familiar activity picke
 ## Links
 
 - [{{< ico fa-brands fa-github >}} Github](https://github.com/divo/ScreenTimeShield)
-- [{{< ico fa-brands fa-app-store >}} App Store](#)
+- [{{< ico fa-brands fa-app-store >}} App Store](https://apps.apple.com/ie/app/unplug-screentime/id6462699154)
 - [{{< ico far fa-life-ring >}} Need support? Open an issue](https://github.com/divo/ScreenTimeShield/issues)
