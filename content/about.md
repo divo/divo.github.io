@@ -7,6 +7,9 @@ aliases = ["about-us", "contact"]
 Software engineer with experience in Ruby on Rails and iOS. Currently giving the indie dev thing a go. Always trying to learn more and always tinkering.
 ## Experience
 
+### Self Employed, Dublin Ireland, July 2022 - Present
+Launched a number of Web and Mobile app products, from concept to deployment. Managed and undertook large home renovation, developed project management skills {{< high "[Ruby, Rails, Node, iOS, Swift, AWS, Pulumi, Ansible, Nginx, Docker]" >}}
+
 ### Staff Software Engineer, Zendesk San Francisco, Jan 2021 - July 2022 
 Moved to the Support Views team in October 2019, became Tech Lead in August 2021. I was responsible for delivery of large ETL project to replicate data from primary data store into Elasticsearch {{< high "[Kafka, Ruby, Rails, Elasticsearch]" >}} 
 
