@@ -29,3 +29,5 @@ Trinity College, Dublin, BA(mod), MCs., 2008 - 2013, Graduated Computer Science 
 ## Skills and Interests
 
 I have a love for technology and enjoy tinkering with a wide range of things in my spare time. I am driven to become an expert in my field, but I also believe maintaining knowledge of a broad range of topics is beneficial. I enjoy learning new things when I have time. I am very diligent and regimented with an interest in time management. To me this is a skill that takes practice.
+
+[Download CV](/pdf/cv.pdf)
